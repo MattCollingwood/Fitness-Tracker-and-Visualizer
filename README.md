@@ -63,7 +63,7 @@ To use this project, you’ll need:
    ```bash
    git clone https://github.com/MattCollingwood/Fitness-Tracker-and-Visualizer.git  
    cd Fitness-Tracker-and-Visualizer
-  ```
+
 
 2. **Set up a virtual environment**
 ```
